@@ -25,4 +25,4 @@ An aspiring **Data Scientist & Computer Science** scholar passionate about lever
 
 ## 📫 Connect With Me
 * ✉️ **Email:** robiharmony08@gmail.com
-* 💼 **LinkedIn / Portfolio:** [Link to Portfolio](https://github.com/Harmony-Robi/Portfolio)
+* 💼 **LinkedIn / Portfolio:** [Link to Portfolio](https://harmony-robi.github.io/Portfolio/)
