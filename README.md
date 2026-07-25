@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Harmony Robi 👋
 
-<!--
-**Harmony-Robi/Harmony-Robi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Data Scientist & Computer Science** scholar passionate about leveraging statistics, machine learning, and clean software engineering to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Focus & Ambitions
+* 📚 **Focus Areas:** Computer Science, Applied Statistics, and Data Analytics.
+* 🎯 **Goal:** Building strong data engineering and machine learning foundations for undergraduate studies.
+* 🚀 **Current Endeavor:** Building end-to-end data pipelines and statistical models.
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Languages:** Python, VB.NET, SQL, HTML/CSS
+* **Developer Tools:** Visual Studio Code, Git, GitHub, VSCODE
+* **Data & Stats:** Pandas, NumPy, Matplotlib, Statistical Modeling
+
+---
+
+## 📌 Featured Projects
+*(Updating soon with 3 core data science and software applications)*
+
+---
+
+## 📫 Connect With Me
+* ✉️ **Email:** robiharmony08@gmail.com
+* 💼 **LinkedIn / Portfolio:** [Link to Portfolio](https://github.com/Harmony-Robi/Portfolio)
